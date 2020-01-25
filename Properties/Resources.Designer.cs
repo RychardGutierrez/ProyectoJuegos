@@ -63,6 +63,26 @@ namespace GameMemory.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap angry_bird_red_icon {
+            get {
+                object obj = ResourceManager.GetObject("angry_bird_red_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Apps_Angry_Birds_icon {
+            get {
+                object obj = ResourceManager.GetObject("Apps_Angry_Birds_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap girar {
             get {
                 object obj = ResourceManager.GetObject("girar", resourceCulture);
@@ -176,6 +196,36 @@ namespace GameMemory.Properties {
         internal static System.Drawing.Bitmap img9 {
             get {
                 object obj = ResourceManager.GetObject("img9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap paisaje {
+            get {
+                object obj = ResourceManager.GetObject("paisaje", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tubo {
+            get {
+                object obj = ResourceManager.GetObject("tubo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tuboArriba {
+            get {
+                object obj = ResourceManager.GetObject("tuboArriba", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

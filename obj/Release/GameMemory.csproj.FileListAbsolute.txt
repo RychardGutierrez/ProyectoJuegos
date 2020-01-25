@@ -8,3 +8,14 @@ D:\OneC#\GameMemory\bin\Release\GameMemory.exe
 D:\OneC#\GameMemory\bin\Release\GameMemory.pdb
 D:\OneC#\GameMemory\obj\Release\GameMemory.exe
 D:\OneC#\GameMemory\obj\Release\GameMemory.pdb
+D:\OnePracticeGame\bin\Release\GameMemory.exe.config
+D:\OnePracticeGame\bin\Release\GameMemory.exe
+D:\OnePracticeGame\bin\Release\GameMemory.pdb
+D:\OnePracticeGame\obj\Release\GameMemory.csprojAssemblyReference.cache
+D:\OnePracticeGame\obj\Release\GameMemory.Form1.resources
+D:\OnePracticeGame\obj\Release\GameMemory.FormGame.resources
+D:\OnePracticeGame\obj\Release\GameMemory.Properties.Resources.resources
+D:\OnePracticeGame\obj\Release\GameMemory.SaltarGame.resources
+D:\OnePracticeGame\obj\Release\GameMemory.csproj.GenerateResource.cache
+D:\OnePracticeGame\obj\Release\GameMemory.exe
+D:\OnePracticeGame\obj\Release\GameMemory.pdb
