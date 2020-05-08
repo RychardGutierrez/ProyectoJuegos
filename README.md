@@ -1,2 +1,2 @@
-# PracticasC
-proyectos de practicas C#
+# Proyecto de juegos
+proyectos C#
